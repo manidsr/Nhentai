@@ -13,6 +13,7 @@ you can find doujins in **Doujins** folder
 ## Technologies
 Project is created with:
 * C#
+* SQL Lite 3
 	
 ## Setup
 To run this software,run the **NhentaiManager.exe**
