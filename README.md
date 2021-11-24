@@ -1,7 +1,7 @@
 ### Nheantai Manager
 a software where you can download and save your doujins.
 
-##Table of contents
+## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
