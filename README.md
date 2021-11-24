@@ -11,11 +11,11 @@ you can find doujins in **Doujins** folder
 
 Some picture of software :
 
-![1](https://github.com/manidsr/Nhentai-Manager/master/screenshots/1.png)
-![2](https://github.com/manidsr/Nhentai-Manager/master/screenshots/2.png)
-![3](https://github.com/manidsr/Nhentai-Manager/master/screenshots/3.png)
-![4](https://github.com/manidsr/Nhentai-Manager/master/screenshots/4.png)
-![5](https://github.com/manidsr/Nhentai-Manager/master/screenshots/5.png)
+![1](https://raw.githubusercontent.com/manidsr/Nhentai-Manager/master/screenshots/1.png)
+![2](https://raw.githubusercontent.com/manidsr/Nhentai-Manager/master/screenshots/2.png)
+![3](https://raw.githubusercontent.com/manidsr/Nhentai-Manager/master/screenshots/3.png)
+![4](https://raw.githubusercontent.com/manidsr/Nhentai-Manager/master/screenshots/4.png)
+![5](https://raw.githubusercontent.com/manidsr/Nhentai-Manager/master/screenshots/5.png)
 
 ## Technologies
 Project is created with:
