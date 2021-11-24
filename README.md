@@ -5,17 +5,10 @@ a software where you can download and save your doujinshi.
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [ScreenShotes](#Screenshots)
 
 ## General info
 you can find doujins in **Doujins** folder
-
-Some picture of software :
-
-![1](https://raw.githubusercontent.com/manidsr/Nhentai-Manager/master/screenshots/1.png)
-![2](https://raw.githubusercontent.com/manidsr/Nhentai-Manager/master/screenshots/2.png)
-![3](https://raw.githubusercontent.com/manidsr/Nhentai-Manager/master/screenshots/3.png)
-![4](https://raw.githubusercontent.com/manidsr/Nhentai-Manager/master/screenshots/4.png)
-![5](https://raw.githubusercontent.com/manidsr/Nhentai-Manager/master/screenshots/5.png)
 
 ## Technologies
 Project is created with:
@@ -23,3 +16,11 @@ Project is created with:
 	
 ## Setup
 To run this software,run the **NhentaiManager.exe**
+
+## Screenshots
+Some picture of software :
+![1](https://raw.githubusercontent.com/manidsr/Nhentai-Manager/master/screenshots/1.png)
+![2](https://raw.githubusercontent.com/manidsr/Nhentai-Manager/master/screenshots/2.png)
+![3](https://raw.githubusercontent.com/manidsr/Nhentai-Manager/master/screenshots/3.png)
+![4](https://raw.githubusercontent.com/manidsr/Nhentai-Manager/master/screenshots/4.png)
+![5](https://raw.githubusercontent.com/manidsr/Nhentai-Manager/master/screenshots/5.png)
