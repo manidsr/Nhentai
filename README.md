@@ -8,7 +8,7 @@ software where you can download and save your doujins.
 * [ScreenShotes](#Screenshots)
 
 ## General info
-you can find doujins in **Doujins** folder
+you can find downloaded doujins in the **Doujins** folder
 
 ## Technologies
 Project is created with:
