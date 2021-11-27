@@ -19,7 +19,7 @@ Project is created with:
 To run this software,run the **NhentaiManager.exe**
 
 ## Screenshots
-Some picture of software :
+Some pictures of software :
 * Library menu
 
 ![1](https://raw.githubusercontent.com/manidsr/Nhentai-Manager/master/screenshots/1.png)
